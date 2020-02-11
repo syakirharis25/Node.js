@@ -55,6 +55,7 @@ Experimenting with Web Assembly and Node.js by Bryan Hughes : https://dev.to/azu
 **_Node.js developers_**
 Ganesh Mani : https://github.com/ganeshmani <br />
 Saurabh Mhatre : https://github.com/smhatre59 <br />
+Bryan Hughes : https://github.com/nebrius <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
