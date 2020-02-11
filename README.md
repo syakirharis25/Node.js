@@ -29,6 +29,9 @@ Node Package Manager | npm : https://www.npmjs.com/ <br />
 jQuery : https://jquery.com/ <br />
 Express : https://expressjs.com/ <br />
 
+**_Node.js v12.15.0 documentation by nodejs.org_**
+Events by nodejs.org : https://nodejs.org/dist/latest-v12.x/docs/api/events.html <br />
+
 **_Node.js documentation by nodejs.org_**
 What is require? by nodejs.org : https://nodejs.org/en/knowledge/getting-started/what-is-require/ <br />
 
