@@ -51,6 +51,7 @@ Express, Koa, Meteor, Sails.js: Four Frameworks Of The Apocalypse by Chuoxian Ya
 Node.js Frameworks Comparison for Your Back-end Solution: Express.js, Meteor.js, Sails.js, and more : https://www.altexsoft.com/blog/engineering/node-js-frameworks-comparison-for-your-back-end-solution-express-js-meteor-js-sails-js-and-more/ <br />
 Is MongoDB reliable? [closed] by Stack Overflow : https://stackoverflow.com/questions/3505141/is-mongodb-reliable <br />
 Experimenting with Web Assembly and Node.js by Bryan Hughes : https://dev.to/azure/experimenting-with-web-assembly-and-nodejs-40f4 <br />
+NestJS why use? by Filipe Mazzon : https://www.linkedin.com/pulse/nestjs-why-use-filipe-mazzon/ <br />
 
 **_Node.js developers_**
 Ganesh Mani : https://github.com/ganeshmani <br />
