@@ -52,11 +52,14 @@ Node.js Frameworks Comparison for Your Back-end Solution: Express.js, Meteor.js,
 Is MongoDB reliable? [closed] by Stack Overflow : https://stackoverflow.com/questions/3505141/is-mongodb-reliable <br />
 Experimenting with Web Assembly and Node.js by Bryan Hughes : https://dev.to/azure/experimenting-with-web-assembly-and-nodejs-40f4 <br />
 NestJS why use? by Filipe Mazzon : https://www.linkedin.com/pulse/nestjs-why-use-filipe-mazzon/ <br />
+Why I choose NestJS over other Node JS frameworks by S M Asad Rahman
+ : https://medium.com/monstar-lab-bangladesh-engineering/why-i-choose-nestjs-over-other-node-js-frameworks-6cdbd083ae67 <br />
 
 **_Node.js developers_**
 Ganesh Mani : https://github.com/ganeshmani <br />
 Saurabh Mhatre : https://github.com/smhatre59 <br />
 Bryan Hughes : https://github.com/nebrius <br />
+S M Asad Rahman : https://github.com/asad-mlbd <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
