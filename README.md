@@ -19,7 +19,8 @@ The Node.js distributed development project was previously governed by the Node.
 ## 2. Official references websites. <br />
 Node.js official website : https://nodejs.org <br />
 
-W3Schools is an educational website : https://www.w3schools.com <br />
+W3Schools educational website : https://www.w3schools.com <br />
+TutorialsTeacher educational website : https://www.tutorialsteacher.com <br />
 
 **_Node.js related technologies_** <br />
 V8 engine : https://v8.dev <br />
@@ -38,6 +39,9 @@ What is require? by nodejs.org : https://nodejs.org/en/knowledge/getting-started
 **_Node.js documentation by W3Schools_**
 Node.js server.listen() Method by W3Schools : https://www.w3schools.com/nodejs/met_server_listen.asp <br />
 Node.js http.createServer() Method by W3Schools : https://www.w3schools.com/nodejs/met_http_createserver.asp <br />
+
+**_Node.js documentation by TutorialsTeacher_**
+Node.js EventEmitter by TutorialsTeacher : https://www.tutorialsteacher.com/nodejs/nodejs-eventemitter
 
 <a name="github"></a>
 ## 3. GitHub notes.
