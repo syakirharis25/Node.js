@@ -27,6 +27,9 @@ Node Package Manager | npm : https://www.npmjs.com/ <br />
 jQuery : https://jquery.com/ <br />
 Express : https://expressjs.com/ <br />
 
+**_Node.js documentation by nodejs.org_**
+What is require? by nodejs.org : https://nodejs.org/en/knowledge/getting-started/what-is-require/ <br />
+
 <a name="github"></a>
 ## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
