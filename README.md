@@ -41,7 +41,13 @@ Node.js server.listen() Method by W3Schools : https://www.w3schools.com/nodejs/m
 Node.js http.createServer() Method by W3Schools : https://www.w3schools.com/nodejs/met_http_createserver.asp <br />
 
 **_Node.js documentation by TutorialsTeacher_**
-Node.js EventEmitter by TutorialsTeacher : https://www.tutorialsteacher.com/nodejs/nodejs-eventemitter
+Node.js EventEmitter by TutorialsTeacher : https://www.tutorialsteacher.com/nodejs/nodejs-eventemitter <br />
+
+**_Node.js related articles_**
+Understanding EventEmitter in Node.js With a UseCase by Ganesh Mani : https://dev.to/ganeshmani/understanding-eventemitter-in-node-js-with-a-usecase-441m <br />
+
+**_Node.js developers_**
+Ganesh Mani : https://github.com/ganeshmani <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
