@@ -26,10 +26,11 @@ Stack Overflow questions and answer website : https://stackoverflow.com <br />
 **_Node.js related technologies_** <br />
 V8 engine : https://v8.dev <br />
 ECMAScript® 2020 Language Specification : https://tc39.es/ecma262 <br />
-WebAssembly Specification : https://webassembly.github.io/spec/core/ <br />
-Node Package Manager | npm : https://www.npmjs.com/ <br />
-jQuery : https://jquery.com/ <br />
+WebAssembly Specification : https://webassembly.github.io/spec/core <br />
+Node Package Manager | npm : https://www.npmjs.com <br />
+jQuery : https://jquery.com <br />
 Express : https://expressjs.com/ <br />
+Fastify : https://www.fastify.io <br />
 
 **_Node.js v12.15.0 documentation by nodejs.org_**
 Events by nodejs.org : https://nodejs.org/dist/latest-v12.x/docs/api/events.html <br />
