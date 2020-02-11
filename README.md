@@ -21,6 +21,7 @@ Node.js official website : https://nodejs.org <br />
 
 W3Schools educational website : https://www.w3schools.com <br />
 TutorialsTeacher educational website : https://www.tutorialsteacher.com <br />
+Stack Overflow questions and answer website : https://stackoverflow.com <br />
 
 **_Node.js related technologies_** <br />
 V8 engine : https://v8.dev <br />
@@ -48,6 +49,7 @@ Understanding EventEmitter in Node.js With a UseCase by Ganesh Mani : https://de
 Top 20 Best NodeJS Frameworks For Developers in 2020 by Rownok Ara :https://www.ubuntupit.com/best-nodejs-frameworks-for-developers <br />
 Express, Koa, Meteor, Sails.js: Four Frameworks Of The Apocalypse by Chuoxian Yang : https://www.toptal.com/nodejs/nodejs-frameworks-comparison <br />
 Node.js Frameworks Comparison for Your Back-end Solution: Express.js, Meteor.js, Sails.js, and more : https://www.altexsoft.com/blog/engineering/node-js-frameworks-comparison-for-your-back-end-solution-express-js-meteor-js-sails-js-and-more/ <br />
+Is MongoDB reliable? [closed] by Stack Overflow : https://stackoverflow.com/questions/3505141/is-mongodb-reliable <br />
 
 **_Node.js developers_**
 Ganesh Mani : https://github.com/ganeshmani <br />
