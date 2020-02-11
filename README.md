@@ -19,6 +19,8 @@ The Node.js distributed development project was previously governed by the Node.
 ## 2. Official references websites. <br />
 Node.js official website : https://nodejs.org <br />
 
+W3Schools is an educational website : https://www.w3schools.com <br />
+
 **_Node.js related technologies_** <br />
 V8 engine : https://v8.dev <br />
 ECMAScript® 2020 Language Specification : https://tc39.es/ecma262 <br />
@@ -29,6 +31,10 @@ Express : https://expressjs.com/ <br />
 
 **_Node.js documentation by nodejs.org_**
 What is require? by nodejs.org : https://nodejs.org/en/knowledge/getting-started/what-is-require/ <br />
+
+**_Node.js documentation by W3Schools_**
+Node.js server.listen() Method by W3Schools : https://www.w3schools.com/nodejs/met_server_listen.asp <br />
+Node.js http.createServer() Method by W3Schools : https://www.w3schools.com/nodejs/met_http_createserver.asp <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
