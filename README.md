@@ -69,6 +69,7 @@ Saurabh Mhatre : https://github.com/smhatre59 <br />
 Bryan Hughes : https://github.com/nebrius <br />
 S M Asad Rahman : https://github.com/asad-mlbd <br />
 Vigneshwer Dhinakaran : https://github.com/dvigneshwer <br />
+Jon Byrum : https://github.com/jbyrum <br />
 
 <a name="conferences"></a>
 ## 3. Node.js conferences.
