@@ -56,6 +56,8 @@ Experimenting with Web Assembly and Node.js by Bryan Hughes : https://dev.to/azu
 NestJS why use? by Filipe Mazzon : https://www.linkedin.com/pulse/nestjs-why-use-filipe-mazzon/ <br />
 Why I choose NestJS over other Node JS frameworks by S M Asad Rahman
  : https://medium.com/monstar-lab-bangladesh-engineering/why-i-choose-nestjs-over-other-node-js-frameworks-6cdbd083ae67 <br />
+Why node is the future? by Tarun Nagar : https://yourstory.com/mystory/why-node-is-the-future <br />
+IBM and Node.js: A look at the past, present, and future : https://developer.ibm.com/blogs/ibm-and-nodejs-our-history-present-and-future/ <br />
 
 **_Node.js developers_**
 Ganesh Mani : https://github.com/ganeshmani <br />
