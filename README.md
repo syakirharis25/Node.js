@@ -70,6 +70,7 @@ Bryan Hughes : https://github.com/nebrius <br />
 S M Asad Rahman : https://github.com/asad-mlbd <br />
 Vigneshwer Dhinakaran : https://github.com/dvigneshwer <br />
 Jon Byrum : https://github.com/jbyrum <br />
+Sepideh Setayeshfar : https://github.com/ssetayeshfar <br />
 
 <a name="conferences"></a>
 ## 3. Node.js conferences.
