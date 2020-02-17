@@ -4,9 +4,10 @@ My works related to Node.js
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [Checking Node.js version.](#version)
-4. [Node.js conferences.](#conferences)
-5. [GitHub notes.](#github)
+3. [Checking Node.js version.](#nodeversion)
+4. [Checking npm version.](#npmversion)
+5. [Node.js conferences.](#conferences)
+6. [GitHub notes.](#github)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -77,19 +78,26 @@ Jon Byrum : https://github.com/jbyrum <br />
 Sepideh Setayeshfar : https://github.com/ssetayeshfar <br />
 Nahid Samsami : https://github.com/nsamsami <br />
 
-<a name="version"></a>
+<a name="nodeversion"></a>
 ## 3. Checking Node.js version.
 To check Node.js version, simply do this command.
 ```
 $ node --version
 ```
 
+<a name="npmversion"></a>
+## 4. Checking npm version.
+To check npm version, simply do this command.
+```
+$ npm --version
+```
+
 <a name="conferences"></a>
-## 4. Node.js conferences.
+## 5. Node.js conferences.
 Node.js conference by International JavaScript Conference : https://javascript-conference.com/node-js <br />
 
 <a name="github"></a>
-## 5. GitHub notes.
+## 6. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Node.js.git
