@@ -43,6 +43,7 @@ Heroku is a cloud platform as a service supporting several programming languages
 Express : https://expressjs.com <br />
 Fastify : https://www.fastify.io <br />
 nodemon : https://nodemon.io <br />
+@babel/node : https://babeljs.io/docs/en/next/babel-node.html <br />
 
 **_Node.js v12.15.0 documentation by nodejs.org_**
 Events by nodejs.org : https://nodejs.org/dist/latest-v12.x/docs/api/events.html <br />
