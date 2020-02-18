@@ -23,8 +23,12 @@ The Node.js distributed development project was previously governed by the Node.
 <a name="references"></a>
 ## 2. Official references websites. <br />
 Node.js official website : https://nodejs.org <br />
+Node.js official documentation : https://nodejs.org/en/docs/ <br />
 
-**_Node.js schools_**
+**_Node.js documentation by nodejs.org_**
+Node.js v12.16.0 Documentation by nodejs.org : https://nodejs.org/dist/latest-v12.x/docs/api/ <br />
+
+**_Node.js schools_** <br />
 W3Schools educational website : https://www.w3schools.com <br />
 TutorialsTeacher educational website : https://www.tutorialsteacher.com <br />
 Stack Overflow questions and answer website : https://stackoverflow.com <br />
