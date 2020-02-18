@@ -27,6 +27,7 @@ Node.js official documentation : https://nodejs.org/en/docs/ <br />
 
 **_Node.js documentation by nodejs.org_**
 Node.js v12.16.0 Documentation by nodejs.org : https://nodejs.org/dist/latest-v12.x/docs/api/ <br />
+Node.js v12.16.0 Documentation for Path by nodejs.org : https://nodejs.org/dist/latest-v12.x/docs/api/path.html <br />
 
 **_Node.js schools_** <br />
 W3Schools educational website : https://www.w3schools.com <br />
