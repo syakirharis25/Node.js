@@ -31,6 +31,7 @@ Node.js official documentation : https://nodejs.org/en/docs/ <br />
 Node.js v12.16.0 Documentation by nodejs.org : https://nodejs.org/dist/latest-v12.x/docs/api/ <br />
 Node.js v12.16.0 Documentation for Path by nodejs.org : https://nodejs.org/dist/latest-v12.x/docs/api/path.html <br />
 Node.js v12.16.0 Documentation for File System by nodejs.org : https://nodejs.org/dist/latest-v12.x/docs/api/fs.html <br />
+Node.js v12.16.0 Documentation for Events by nodejs.org : https://nodejs.org/dist/latest-v12.x/docs/api/events.html <br />
 
 **_Node.js schools_** <br />
 W3Schools educational website : https://www.w3schools.com <br />
