@@ -6,9 +6,10 @@ My works related to Node.js
 2. [Official references websites.](#references)
 3. [Checking Node.js version.](#nodeversion)
 4. [Checking npm version.](#npmversion)
-5. [Node.js conferences.](#conferences)
-6. [GitHub notes.](#github)
-7. [GitHub repository calculation.](#calculation)
+5. [Cannot find module error solution.](#modulesolution)
+6. [Node.js conferences.](#conferences)
+7. [GitHub notes.](#github)
+8. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -101,6 +102,30 @@ $ node --version
 To check npm version, simply do this command.
 ```
 $ npm --version
+```
+
+<a name="modulesolution"></a>
+## 5. Cannot find module error solution.
+If there was error stating this message.
+```
+Error: Cannot find module 'C:\Users\username\Desktop\Node.js\os_demo'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:981:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:863:27)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+```
+
+Then you need to find the package.json file in your working folder and change your main to your working file.
+```
+"main": "os_demo.js",
+```
+
+Then under terminal, type this command.
+```
+$ npm install
 ```
 
 <a name="conferences"></a>
