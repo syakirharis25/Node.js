@@ -6,8 +6,10 @@ My works related to Node.js
 2. [Official references websites.](#references)
 3. [Checking Node.js version.](#nodeversion)
 4. [Checking npm version.](#npmversion)
-5. [Node.js conferences.](#conferences)
-6. [GitHub notes.](#github)
+5. [Cannot find module error solution.](#modulesolution)
+6. [Node.js conferences.](#conferences)
+7. [GitHub notes.](#github)
+8. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -102,6 +104,30 @@ To check npm version, simply do this command.
 $ npm --version
 ```
 
+<a name="modulesolution"></a>
+## 5. Cannot find module error solution.
+If there was error stating this message.
+```
+Error: Cannot find module 'C:\Users\username\Desktop\Node.js\os_demo'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:981:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:863:27)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+```
+
+Then you need to find the package.json file in your working folder and change your main to your working file.
+```
+"main": "os_demo.js",
+```
+
+Then under terminal, type this command.
+```
+$ npm install
+```
+
 <a name="conferences"></a>
 ## 5. Node.js conferences.
 Node.js conference by International JavaScript Conference : https://javascript-conference.com/node-js <br />
@@ -114,3 +140,27 @@ $ git clone https://github.com/syakirharis25/Node.js.git
 $ cd Node.js/
 $ git remote -v
 $ git status
+```
+
+<a name="calculation"></a>
+## 7. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+JavaScript                     340           7648           8380          31695
+JSON                           177              0              0          23849
+Markdown                       209           8648              2          21915
+TypeScript                      12             93            289            369
+DOS Batch                        9             18              0            135
+PowerShell                       9              9             27            126
+Bourne Shell                     9             18              0            117
+YAML                             7              3              0             68
+make                             1             14              4             32
+-------------------------------------------------------------------------------
+SUM:                           773          16451           8702          78306
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
+
+adding GitHub repository calculation
