@@ -54,6 +54,7 @@ Node Package Manager | npm : https://www.npmjs.com <br />
 jQuery : https://jquery.com <br />
 Chrome JSON Viewer : https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh <br />
 Heroku is a cloud platform as a service supporting several programming languages : https://www.heroku.com <br />
+The Heroku CLI : https://devcenter.heroku.com/articles/heroku-cli <br />
 
 **_Node.js packages_**
 Express : https://expressjs.com <br />
