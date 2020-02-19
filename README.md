@@ -53,7 +53,7 @@ WebAssembly Specification : https://webassembly.github.io/spec/core <br />
 Node Package Manager | npm : https://www.npmjs.com <br />
 jQuery : https://jquery.com <br />
 Chrome JSON Viewer : https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh <br />
-Heroku is a cloud platform as a service supporting several programming languages : https://www.heroku.com <br 
+Heroku is a cloud platform as a service supporting several programming languages : https://www.heroku.com <br />
 
 **_Node.js packages_**
 Express : https://expressjs.com <br />
