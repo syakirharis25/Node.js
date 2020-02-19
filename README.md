@@ -31,6 +31,7 @@ Node.js official documentation : https://nodejs.org/en/docs/ <br />
 Node.js v12.16.0 Documentation by nodejs.org : https://nodejs.org/dist/latest-v12.x/docs/api/ <br />
 Node.js v12.16.0 Documentation for Path by nodejs.org : https://nodejs.org/dist/latest-v12.x/docs/api/path.html <br />
 Node.js v12.16.0 Documentation for File System by nodejs.org : https://nodejs.org/dist/latest-v12.x/docs/api/fs.html <br />
+Node.js v12.16.0 Documentation for Events by nodejs.org : https://nodejs.org/dist/latest-v12.x/docs/api/events.html <br />
 
 **_Node.js schools_** <br />
 W3Schools educational website : https://www.w3schools.com <br />
@@ -79,6 +80,9 @@ Why I choose NestJS over other Node JS frameworks by S M Asad Rahman
 Why node is the future? by Tarun Nagar : https://yourstory.com/mystory/why-node-is-the-future <br />
 IBM and Node.js: A look at the past, present, and future : https://developer.ibm.com/blogs/ibm-and-nodejs-our-history-present-and-future/ <br />
 Popular Stack: Full Stack VS Mean Stack VS MERN Stack by WaftTech : https://www.wafttech.com/blog/popular-stack-full-stack-vs-mean-stack-vs-mern-stack<br />
+Error: Cannot find module 'uuid' : https://stackoverflow.com/questions/43865189/error-cannot-find-module-uuid <br />
+Unique identifiers generation in Node.js : https://blog.abelotech.com/posts/generate-unique-identifier-nodejs-javascript/ <br />
+Understanding module.exports and exports in Node.js by James Hibbard : https://www.sitepoint.com/understanding-module-exports-exports-node-js/ <br />
 
 **_Node.js developers_**
 Ganesh Mani : https://github.com/ganeshmani <br />
@@ -89,6 +93,7 @@ Vigneshwer Dhinakaran : https://github.com/dvigneshwer <br />
 Jon Byrum : https://github.com/jbyrum <br />
 Sepideh Setayeshfar : https://github.com/ssetayeshfar <br />
 Nahid Samsami : https://github.com/nsamsami <br />
+James Hibbard : https://github.com/jameshibbard <br />
 
 <a name="nodeversion"></a>
 ## 3. Checking Node.js version.
