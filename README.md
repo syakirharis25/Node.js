@@ -39,6 +39,12 @@ TutorialsTeacher educational website : https://www.tutorialsteacher.com <br />
 Stack Overflow questions and answer website : https://stackoverflow.com <br />
 DevMountain is a private coding bootcamp : https://devmountain.com <br />
 
+**_Node.js questions and answers by Stack Overflow_**
+What is process.env.PORT in Node.js? by Stack Overflow : https://stackoverflow.com/questions/18864677/what-is-process-env-port-in-node-js <br />
+Is MongoDB reliable? [closed] by Stack Overflow : https://stackoverflow.com/questions/3505141/is-mongodb-reliable <br />
+Error: Cannot find module 'uuid' by Stack Overflow : https://stackoverflow.com/questions/43865189/error-cannot-find-module-uuid <br />
+response.writeHead and response.end in NodeJs by Stack Overflow : https://stackoverflow.com/questions/14243100/response-writehead-and-response-end-in-nodejs <br />
+
 **_Node.js related technologies_** <br />
 V8 engine : https://v8.dev <br />
 ECMAScript® 2020 Language Specification : https://tc39.es/ecma262 <br />
@@ -72,7 +78,6 @@ Understanding EventEmitter in Node.js With a UseCase by Ganesh Mani : https://de
 Top 20 Best NodeJS Frameworks For Developers in 2020 by Rownok Ara :https://www.ubuntupit.com/best-nodejs-frameworks-for-developers <br />
 Express, Koa, Meteor, Sails.js: Four Frameworks Of The Apocalypse by Chuoxian Yang : https://www.toptal.com/nodejs/nodejs-frameworks-comparison <br />
 Node.js Frameworks Comparison for Your Back-end Solution: Express.js, Meteor.js, Sails.js, and more : https://www.altexsoft.com/blog/engineering/node-js-frameworks-comparison-for-your-back-end-solution-express-js-meteor-js-sails-js-and-more/ <br />
-Is MongoDB reliable? [closed] by Stack Overflow : https://stackoverflow.com/questions/3505141/is-mongodb-reliable <br />
 Experimenting with Web Assembly and Node.js by Bryan Hughes : https://dev.to/azure/experimenting-with-web-assembly-and-nodejs-40f4 <br />
 NestJS why use? by Filipe Mazzon : https://www.linkedin.com/pulse/nestjs-why-use-filipe-mazzon/ <br />
 Why I choose NestJS over other Node JS frameworks by S M Asad Rahman
@@ -80,9 +85,10 @@ Why I choose NestJS over other Node JS frameworks by S M Asad Rahman
 Why node is the future? by Tarun Nagar : https://yourstory.com/mystory/why-node-is-the-future <br />
 IBM and Node.js: A look at the past, present, and future : https://developer.ibm.com/blogs/ibm-and-nodejs-our-history-present-and-future/ <br />
 Popular Stack: Full Stack VS Mean Stack VS MERN Stack by WaftTech : https://www.wafttech.com/blog/popular-stack-full-stack-vs-mean-stack-vs-mern-stack<br />
-Error: Cannot find module 'uuid' : https://stackoverflow.com/questions/43865189/error-cannot-find-module-uuid <br />
 Unique identifiers generation in Node.js : https://blog.abelotech.com/posts/generate-unique-identifier-nodejs-javascript/ <br />
 Understanding module.exports and exports in Node.js by James Hibbard : https://www.sitepoint.com/understanding-module-exports-exports-node-js/ <br />
+What is the difference between npm run dev and npm run production? : https://laracasts.com/discuss/channels/javascript/what-is-the-difference-between-npm-run-dev-and-npm-run-production <br />
+How to view the HTML source code of a web page by Computer Hope : https://www.computerhope.com/issues/ch000746.htm <br />
 
 **_Node.js developers_**
 Ganesh Mani : https://github.com/ganeshmani <br />
