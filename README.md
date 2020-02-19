@@ -102,6 +102,7 @@ Jon Byrum : https://github.com/jbyrum <br />
 Sepideh Setayeshfar : https://github.com/ssetayeshfar <br />
 Nahid Samsami : https://github.com/nsamsami <br />
 James Hibbard : https://github.com/jameshibbard <br />
+Gabor Szabo : https://github.com/szabgab <br />
 
 <a name="nodeversion"></a>
 ## 3. Checking Node.js version.
