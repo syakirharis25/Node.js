@@ -81,6 +81,7 @@ Why node is the future? by Tarun Nagar : https://yourstory.com/mystory/why-node-
 IBM and Node.js: A look at the past, present, and future : https://developer.ibm.com/blogs/ibm-and-nodejs-our-history-present-and-future/ <br />
 Popular Stack: Full Stack VS Mean Stack VS MERN Stack by WaftTech : https://www.wafttech.com/blog/popular-stack-full-stack-vs-mean-stack-vs-mern-stack<br />
 Error: Cannot find module 'uuid' : https://stackoverflow.com/questions/43865189/error-cannot-find-module-uuid <br />
+Unique identifiers generation in Node.js : https://blog.abelotech.com/posts/generate-unique-identifier-nodejs-javascript/ <br />
 
 **_Node.js developers_**
 Ganesh Mani : https://github.com/ganeshmani <br />
