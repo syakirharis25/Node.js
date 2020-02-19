@@ -7,7 +7,8 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index",
+    "dev": "nodemon index"
   },
   "keywords": [
     "node",
@@ -24,6 +25,7 @@
   },
   "homepage": "https://github.com/syakirharis25/Node.js#readme",
   "dependencies": {
+    "nodemon": "^2.0.2",
     "uuid": "^3.4.0"
   }
 }
