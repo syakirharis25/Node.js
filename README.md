@@ -120,7 +120,7 @@ Error: Cannot find module 'C:\Users\username\Desktop\Node.js\os_demo'
 
 Then you need to find the package.json file in your working folder and change your main to your working file.
 ```
-"main": "os_demo.js",
+"main": "workingfile.js",
 ```
 
 Then under terminal, type this command.
