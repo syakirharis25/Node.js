@@ -8,6 +8,7 @@ My works related to Node.js
 4. [Checking npm version.](#npmversion)
 5. [Node.js conferences.](#conferences)
 6. [GitHub notes.](#github)
+7. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -114,3 +115,27 @@ $ git clone https://github.com/syakirharis25/Node.js.git
 $ cd Node.js/
 $ git remote -v
 $ git status
+```
+
+<a name="calculation"></a>
+## 7. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+JavaScript                     340           7648           8380          31695
+JSON                           177              0              0          23849
+Markdown                       209           8648              2          21915
+TypeScript                      12             93            289            369
+DOS Batch                        9             18              0            135
+PowerShell                       9              9             27            126
+Bourne Shell                     9             18              0            117
+YAML                             7              3              0             68
+make                             1             14              4             32
+-------------------------------------------------------------------------------
+SUM:                           773          16451           8702          78306
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
+
+adding GitHub repository calculation
