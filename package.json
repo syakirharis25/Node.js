@@ -1,7 +1,7 @@
 {
   "name": "reference",
   "version": "1.0.0",
-  "description": "npm for os_demo.js",
+  "description": "npm testing",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -14,5 +14,16 @@
     "npm"
   ],
   "author": "Muhammad Syakir bin Mohd Haris",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syakirharis25/Node.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/syakirharis25/Node.js/issues"
+  },
+  "homepage": "https://github.com/syakirharis25/Node.js#readme",
+  "dependencies": {
+    "uuid": "^3.4.0"
+  }
 }
