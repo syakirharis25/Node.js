@@ -43,6 +43,7 @@ DevMountain is a private coding bootcamp : https://devmountain.com <br />
 What is process.env.PORT in Node.js? by Stack Overflow : https://stackoverflow.com/questions/18864677/what-is-process-env-port-in-node-js <br />
 Is MongoDB reliable? [closed] by Stack Overflow : https://stackoverflow.com/questions/3505141/is-mongodb-reliable <br />
 Error: Cannot find module 'uuid' by Stack Overflow : https://stackoverflow.com/questions/43865189/error-cannot-find-module-uuid <br />
+response.writeHead and response.end in NodeJs by Stack Overflow : https://stackoverflow.com/questions/14243100/response-writehead-and-response-end-in-nodejs <br />
 
 **_Node.js related technologies_** <br />
 V8 engine : https://v8.dev <br />
