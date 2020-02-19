@@ -1,0 +1,18 @@
+{
+  "name": "reference",
+  "version": "1.0.0",
+  "description": "npm for os_demo.js",
+  "main": "os_demo.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Muhammad Syakir bin Mohd Haris",
+  "license": "ISC"
+}
