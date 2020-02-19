@@ -86,6 +86,7 @@ IBM and Node.js: A look at the past, present, and future : https://developer.ibm
 Popular Stack: Full Stack VS Mean Stack VS MERN Stack by WaftTech : https://www.wafttech.com/blog/popular-stack-full-stack-vs-mean-stack-vs-mern-stack<br />
 Unique identifiers generation in Node.js : https://blog.abelotech.com/posts/generate-unique-identifier-nodejs-javascript/ <br />
 Understanding module.exports and exports in Node.js by James Hibbard : https://www.sitepoint.com/understanding-module-exports-exports-node-js/ <br />
+What is the difference between npm run dev and npm run production? : https://laracasts.com/discuss/channels/javascript/what-is-the-difference-between-npm-run-dev-and-npm-run-production <br />
 
 **_Node.js developers_**
 Ganesh Mani : https://github.com/ganeshmani <br />
