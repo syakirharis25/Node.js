@@ -145,6 +145,8 @@ Then under terminal, type this command.
 $ npm install
 ```
 
+Make sure to install all the related npm dependencies.
+
 <a name="conferences"></a>
 ## 5. Node.js conferences.
 Node.js conference by International JavaScript Conference : https://javascript-conference.com/node-js <br />
