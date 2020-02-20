@@ -46,6 +46,7 @@ Is MongoDB reliable? [closed] by Stack Overflow : https://stackoverflow.com/ques
 Error: Cannot find module 'uuid' by Stack Overflow : https://stackoverflow.com/questions/43865189/error-cannot-find-module-uuid <br />
 response.writeHead and response.end in NodeJs by Stack Overflow : https://stackoverflow.com/questions/14243100/response-writehead-and-response-end-in-nodejs <br />
 Node JS Error: ENOENT by Stack Overflow : https://stackoverflow.com/questions/9047094/node-js-error-enoent <br />
+What is the purpose of Node.js module.exports and how do you use it? by Stack overflow : https://stackoverflow.com/questions/5311334/what-is-the-purpose-of-node-js-module-exports-and-how-do-you-use-it <br />
 
 **_Node.js related technologies_** <br />
 V8 engine : https://v8.dev <br />
