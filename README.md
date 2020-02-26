@@ -33,6 +33,7 @@ Node.js v12.16.0 Documentation for Path by nodejs.org : https://nodejs.org/dist/
 Node.js v12.16.0 Documentation for File System by nodejs.org : https://nodejs.org/dist/latest-v12.x/docs/api/fs.html <br />
 Node.js v12.16.0 Documentation for Events by nodejs.org : https://nodejs.org/dist/latest-v12.x/docs/api/events.html <br />
 Node.js v13.9.0 Documentation for Global Objects by nodejs.org : https://nodejs.org/docs/latest/api/globals.html <br />
+Node.js v13.9.0 Documentation for Assert by nodejs.org : https://nodejs.org/api/assert.html <br />
 
 **_Node.js schools_** <br />
 W3Schools educational website : https://www.w3schools.com <br />
