@@ -147,16 +147,16 @@ Node.js conference by International JavaScript Conference : https://javascript-c
 
 <a name="developers"></a>
 ## 7. Node.js developers.
-Ganesh Mani : https://github.com/ganeshmani <br />
-Saurabh Mhatre : https://github.com/smhatre59 <br />
 Bryan Hughes : https://github.com/nebrius <br />
-S M Asad Rahman : https://github.com/asad-mlbd <br />
-Vigneshwer Dhinakaran : https://github.com/dvigneshwer <br />
-Jon Byrum : https://github.com/jbyrum <br />
-Sepideh Setayeshfar : https://github.com/ssetayeshfar <br />
-Nahid Samsami : https://github.com/nsamsami <br />
-James Hibbard : https://github.com/jameshibbard <br />
 Gabor Szabo : https://github.com/szabgab <br />
+Ganesh Mani : https://github.com/ganeshmani <br />
+James Hibbard : https://github.com/jameshibbard <br />
+Jon Byrum : https://github.com/jbyrum <br />
+Nahid Samsami : https://github.com/nsamsami <br />
+S M Asad Rahman : https://github.com/asad-mlbd <br />
+Saurabh Mhatre : https://github.com/smhatre59 <br />
+Sepideh Setayeshfar : https://github.com/ssetayeshfar <br />
+Vigneshwer Dhinakaran : https://github.com/dvigneshwer <br />
 
 <a name="github"></a>
 ## 8. GitHub notes.
@@ -189,5 +189,3 @@ SUM:                           782          16500           8747          77975
 -------------------------------------------------------------------------------
 ```
 Refer to : https://github.com/syakirharis25/cloc
-
-adding GitHub repository calculation
