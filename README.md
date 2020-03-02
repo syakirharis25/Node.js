@@ -8,8 +8,9 @@ My works related to Node.js
 4. [Checking npm version.](#npmversion)
 5. [Cannot find module error solution.](#modulesolution)
 6. [Node.js conferences.](#conferences)
-7. [GitHub notes.](#github)
-8. [GitHub repository calculation.](#calculation)
+7. [Node.js developers.](#developers)
+8. [GitHub notes.](#github)
+9. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -100,18 +101,6 @@ How to view the HTML source code of a web page by Computer Hope : https://www.co
 Node.js | join() function by GeeksforGeeks : https://www.geeksforgeeks.org/node-js-join-function/ <br />
 Reading a file with Node.js - blocking and non-blocking by Gabor Szabo : https://code-maven.com/reading-a-file-with-nodejs <br />
 
-**_Node.js developers_**
-Ganesh Mani : https://github.com/ganeshmani <br />
-Saurabh Mhatre : https://github.com/smhatre59 <br />
-Bryan Hughes : https://github.com/nebrius <br />
-S M Asad Rahman : https://github.com/asad-mlbd <br />
-Vigneshwer Dhinakaran : https://github.com/dvigneshwer <br />
-Jon Byrum : https://github.com/jbyrum <br />
-Sepideh Setayeshfar : https://github.com/ssetayeshfar <br />
-Nahid Samsami : https://github.com/nsamsami <br />
-James Hibbard : https://github.com/jameshibbard <br />
-Gabor Szabo : https://github.com/szabgab <br />
-
 <a name="nodeversion"></a>
 ## 3. Checking Node.js version.
 To check Node.js version, simply do this command.
@@ -153,11 +142,24 @@ $ npm install
 Make sure to install all the related npm dependencies.
 
 <a name="conferences"></a>
-## 5. Node.js conferences.
+## 6. Node.js conferences.
 Node.js conference by International JavaScript Conference : https://javascript-conference.com/node-js <br />
 
+<a name="developers"></a>
+## 7. Node.js developers.
+Ganesh Mani : https://github.com/ganeshmani <br />
+Saurabh Mhatre : https://github.com/smhatre59 <br />
+Bryan Hughes : https://github.com/nebrius <br />
+S M Asad Rahman : https://github.com/asad-mlbd <br />
+Vigneshwer Dhinakaran : https://github.com/dvigneshwer <br />
+Jon Byrum : https://github.com/jbyrum <br />
+Sepideh Setayeshfar : https://github.com/ssetayeshfar <br />
+Nahid Samsami : https://github.com/nsamsami <br />
+James Hibbard : https://github.com/jameshibbard <br />
+Gabor Szabo : https://github.com/szabgab <br />
+
 <a name="github"></a>
-## 6. GitHub notes.
+## 8. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Node.js.git
@@ -167,7 +169,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 7. GitHub repository calculation.
+## 9. GitHub repository calculation.
 ```-------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
